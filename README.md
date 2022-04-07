@@ -2,7 +2,7 @@
 - 👀 I’m interested in Product Developement
 - 🌱 I’m currently learning blockchain 
 - 💞️ I’m looking to collaborate on tech products.
-- 📫 How to reach me ...
+- 📫 How to reach me @prasads-tech
 
 <!---
 prasads-tech/prasads-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

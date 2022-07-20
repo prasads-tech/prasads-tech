@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prasads-tech
 - 👀 I’m interested in Product Developement
 - 🌱 I’m currently exploring Blockchain 
-- 💞️ I’m looking to collaborate on tech products.
+- 💞️ I’m looking to collaborate on tech products
 - 📫 How to reach me @prasads-tech
 
 <!---

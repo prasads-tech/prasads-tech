@@ -1,6 +1,6 @@
 ### Hello ..! 👋
 
-<img align="left" width="14%" src="https://avatars.githubusercontent.com/u/103177420?v=4">
+<img align="left" width="15%" src="https://avatars.githubusercontent.com/u/103177420?v=4">
 
 - 👋 I’m Prasad J.
 - 👀 I’m interested in developement

@@ -2,7 +2,7 @@
 
 <img align="left" width="14%" src="https://avatars.githubusercontent.com/u/103177420?v=4">
 
-- 👋 Hi, I’m Prasad J.
+- 👋 I’m Prasad J.
 - 👀 I’m interested in developement
 - 🌱 I’m currently exploring blockchain 
 - 💞️ I’m looking to collaborate on tech products

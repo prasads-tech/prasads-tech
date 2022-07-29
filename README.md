@@ -1,5 +1,5 @@
 
-<img align="left" width="15%" src="https://avatars.githubusercontent.com/u/103177420?v=4">
+<img align="left" width="16%" src="https://avatars.githubusercontent.com/u/103177420?v=4">
 
 - 👋 Hi, I’m Prasad J.
 - 👀 I’m interested in developement

@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @prasads-tech
-- 👀 I’m interested in Product Developement
-- 🌱 I’m currently exploring Blockchain 
+
+<img align="left" width="15%" src="https://avatars.githubusercontent.com/u/103177420?v=4">
+
+- 👋 Hi, I’m Prasad J.
+- 👀 I’m interested in developement
+- 🌱 I’m currently exploring blockchain 
 - 💞️ I’m looking to collaborate on tech products
 - 📫 How to reach me @prasads-tech
 

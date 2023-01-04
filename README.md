@@ -4,7 +4,7 @@
 
 - 👋 I’m Prasad J.
 - 👀 I’m interested in developement
-- 🌱 I’m currently exploring blockchain 
+- 🌱 I’m currently exploring 
 - 💞️ I’m looking to collaborate on tech products
 - 📫 How to reach me @prasads-tech
 

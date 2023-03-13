@@ -2,7 +2,7 @@
 
 <img align="left" width="15%" src="https://avatars.githubusercontent.com/u/103177420?v=4">
 
-- 👋 I’m Prasad J.
+- 👋 I’m Prasad Jivane
 - 👀 I’m interested in developement
 - 🌱 I’m currently exploring 
 - 💞️ I’m looking to collaborate on tech products
